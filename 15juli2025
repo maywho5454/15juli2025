@@ -3702,6 +3702,25 @@ HBO GROUP| UTAMA
 =======
 NEW 4/5/2025
 =========
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",Cinemax
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Cinemax-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HBO
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/Hbo-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HboHits
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/HboHits-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HboFamily
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/HboFamily-HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0GiICTY.jpeg" group-title="HBO",HboSignature
+#EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
+https://wahyu1ptv.pages.dev/HboSignature-HD.m3u8
 ===========
 HBO INDO MJ
 ===========
@@ -6212,12 +6231,14 @@ https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv.m3u8
 #EXTINF:-1 group-title="OLAHRAGA | BADMINTON" tvg-logo="https://i.imgur.com/P47cFSh.jpeg", SPOTV2
 https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/spotv2.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",AstroBadminton 1 (MJ)
-https://wahyu1ptv.pages.dev/AstroBadminton-HD.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON", ASTRO BADMINTON (MJ)
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20badminton.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON",AstroBadminton 2 (MJ)
-https://wahyu1ptv.pages.dev/AstroBadminton2-HD.m3u8
-================================
+#EXTINF: -1 tvg-logo="https://i.imgur.com/P47cFSh.jpeg" group-title="OLAHRAGA | BADMINTON", ASTRO BADMINTON 2 (MH)
+https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
+
+==================
 
 ---------NEW 3/6/2025
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -8196,7 +8217,5 @@ https://a204aivottepl-a.akamaihd.net/sin-nitro/live/clients/dash/enc/nf4cd3x1tq/
 https://a166aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/clients/dash/enc/gdhz5mhnyu/out/v1/fe72171ab2684ab8b9ee3e2ffcc9cff2/cenc.mpd
 
 5/6/2025 FIX 12:41 PM 
-
-#EXTM3U billed-msg="😎MASTER | lynk.id/magelife😎"
 
 #EXTM3U billed-msg="😎15 JULI 2025| lynk.id/magelife😎"
